@@ -1,0 +1,141 @@
+/*body{
+	background-color:#F0F2F5;
+}
+*{
+	padding:0;
+	margin:0;
+}
+
+.yndhanur{
+   margin-top: 200px;
+   margin-left: 500px;
+}
+
+h1{
+    color: blue;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;}
+span{
+    font-size: 30px;
+}	
+
+        .qarakusi{
+            width:395px;
+            height:344px;
+            border: 1px solid #F0F2F5;
+            
+		margin-left:950px;
+        margin-bottom: 50px;
+		background-color: #FFFFFF;
+		border-radius: 10px 10px 10px 10px;
+			display: inline-block;
+    }
+
+    .log{
+        width: 360px;
+        height: 48px;
+        margin-left: 16px;
+        margin-top: 12px;
+        border: 1px solid #DDDFE2;
+        font-size: 17px;
+        border-radius: 6px 6px 6px 6px;
+        display: inline-block;
+    }
+
+    .cuc{
+        width: 360px;
+        height: 48px;
+        margin-left: 16px;
+        margin-top: 12px;
+        border: 1px solid #DDDFE2;
+        font-size: 17px;
+        border-radius: 6px 6px 6px 6px;
+        display: inline-block;
+    }
+
+    .kn{
+        margin-top: 20px;
+        margin-left: 15px;
+		font-size:22px;
+		text-align:center;
+		color:white;
+		width:360px;
+		height:48px;
+	     border-radius: 6px 6px 6px 6px;
+	     background-color: #1877f2;
+         border: 1px solid #1877f2;
+		    
+			display: inline-block;
+
+	}
+
+    .gic{
+        width: 360px;
+        margin-left: 20px;
+        height: 1px;
+        background-color: #DADDE1;
+        margin-top:25px;
+            display: inline-block;
+    
+        }*/
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        .one{
+            background-color: pink;
+            border-radius: 5px;
+            border: 1px solid pink;
+            display: inline-block;
+            
+        }
+        .two{
+            margin-left: 15px;
+    color: grey;
+    cursor: pointer;
+    font-size: medium;
+        }
+
+     .number{
+         width: 700px;
+         height: 260px;
+         border: 1px solid #DDDFE2;
+        border-radius: 6px 6px 6px 6px;
+        color: darkgray;
+        display: inline-block;
+     }
+     span{
+         padding-left: 20px;
+         padding-top: 10px;
+         color: black;
+         display: inline-block;
+     }
+     .first{
+         padding-left: 20px;
+         padding-top: 10px;
+     }
+     #txtarea{
+         border-radius: 5px;
+         width: 650px;
+     }
+     button{
+        margin-left: 20px;
+        margin-top: 20px;
+        background-color: #1877f2;
+        border: 1px solid #1877f2;
+        color: aliceblue;
+        width: 90px;
+        height: 30px;
+        border-radius: 6px 6px 6px 6px;
+        cursor: pointer;
+     }
+
+     #txtarea1{
+        border-radius: 5px;
+        width: 650px;
+     }
+     .second{
+         margin-left: 20px;
+         margin-top: 10px;
+         
+     }
